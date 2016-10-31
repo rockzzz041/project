@@ -1,0 +1,45 @@
+.header{
+    position: absolute;
+    left: 25%;
+    top: 10%;
+    width: 50%;
+}
+.header_link_main{
+    position: absolute;
+    width: 10%;
+	font-size: 140%;
+    font-family: "Inconsolata";
+    text-transform: uppercase;
+}
+.header_link_lifestyle{
+	position: absolute;    
+    top: 0%;
+    left: 39%;
+    font-size: 100%;
+    font-family: "Playfair Display";
+    text-transform: uppercase;
+}
+.header_link_photodiary{
+	position: absolute;    
+    top: 0%;
+    left: 59%;
+    font-size: 100%;
+    font-family: "Playfair Display";
+    text-transform: uppercase;
+}
+.header_link_music{
+	position: absolute;
+	top: 0%;
+    left: 79%;
+    font-size: 100%;
+    font-family: "Playfair Display";
+    text-transform: uppercase;
+}
+.header_link_travel{
+	position: absolute;
+	top: 0%;
+    left: 93.7%;
+    font-size: 100%;
+    font-family: "Playfair Display";
+    text-transform: uppercase;
+}

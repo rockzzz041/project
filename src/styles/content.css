@@ -1,0 +1,114 @@
+.main_photo{
+	position: absolute;
+	left: 25%;
+	top: 15%;
+	width: 50%;
+	height: 50%;
+}
+.content_box{
+	position: absolute;
+	left: 27%;
+	top: 75%;
+	width: 30%;
+	height: 100%;
+}
+.content_photodiary{
+	position: absolute;
+	font-family: "Ubuntu";
+	color: rgb(180, 173, 158);
+	text-transform: uppercase;
+	font-size: 100%;
+	width: 40%;
+	height: 10%;
+}
+.content_text_week{
+	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	position: absolute;
+  	top: 5%;
+  	font-size: 150%;
+  	width: 100%;
+	height: 5%;
+}
+.content_text_lorum{
+	position: absolute;
+	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	text-align: left;
+  	top:10%;
+  	width: 100%;
+  	height: 50%;
+  	
+}
+.content_photo1{
+	position: absolute;
+	top: 55%;
+	max-width: 100%;
+	max-height: 50%;
+}
+.content_photo2{
+	position: absolute;
+	top: 110%;
+	max-width: 100%;
+	max-height: 50%;
+}
+.content_photo3{
+	position: absolute;
+	top: 165%;
+	max-width: 100%;
+	max-height: 50%;
+}
+.content_text{
+	position: absolute;
+	top: 219%;
+	text-align: left;
+	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	max-width: 100%;
+  	max-height: 40%;
+}
+.content_text_share{
+	position: absolute;
+	top:280%;
+	left:60%;
+	font-family: "Ubuntu";
+  	color: rgb(180, 173, 158);
+  	text-transform: uppercase;
+  	width: 15%;
+  	height: 10%;
+}
+.content_icon_fb{
+	position: absolute;
+	top:280%;
+	left:71%;
+	width: 15%;
+  	height: 10%;
+}
+.content_icon_tw{
+	position: absolute;
+	top:280%;
+	left:75%;
+	width: 15%;
+  	height: 10%;
+}
+.content_icon_g{
+	position: absolute;
+	top:280%;
+	left:80%;
+	width: 15%;
+  	height: 10%;
+}
+.content_icon_t{
+	position: absolute;
+	top:280%;
+	left:85%;
+	width: 15%;
+  	height: 10%;
+}
+.content_icon_p{
+	position: absolute;
+	top:280%;
+	left:89%;
+	width: 15%;
+  	height: 10%;
+}
